@@ -1,0 +1,5 @@
+C:\Users\i31430\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\i31430\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i31430\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\i31430\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.AssemblyInfo.cs
+C:\Users\i31430\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net6.0\FacadeDesignPattern.csproj.CoreCompileInputs.cache

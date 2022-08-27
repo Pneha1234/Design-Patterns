@@ -1,0 +1,5 @@
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingFacade\obj\Debug\net6.0\ShoppingFacade.csproj.AssemblyReference.cache
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingFacade\obj\Debug\net6.0\ShoppingFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingFacade\obj\Debug\net6.0\ShoppingFacade.AssemblyInfoInputs.cache
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingFacade\obj\Debug\net6.0\ShoppingFacade.AssemblyInfo.cs
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingFacade\obj\Debug\net6.0\ShoppingFacade.csproj.CoreCompileInputs.cache

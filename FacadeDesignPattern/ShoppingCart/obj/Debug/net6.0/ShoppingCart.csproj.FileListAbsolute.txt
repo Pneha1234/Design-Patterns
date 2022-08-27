@@ -1,0 +1,5 @@
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\i31430\source\repos\FacadeDesignPattern\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache

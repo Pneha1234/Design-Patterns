@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDesignPattern", "FacadeDesignPattern\FacadeDesignPattern.csproj", "{429FD2C1-E1B6-4A6B-87CC-8841966C0DF0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{79091B2C-7F15-40FB-9170-D5BAB320F726} = {79091B2C-7F15-40FB-9170-D5BAB320F726}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart", "ShoppingCart\ShoppingCart.csproj", "{79091B2C-7F15-40FB-9170-D5BAB320F726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingFacade", "ShoppingFacade\ShoppingFacade.csproj", "{EAABBB29-3958-478C-855A-767FCC4A9080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429FD2C1-E1B6-4A6B-87CC-8841966C0DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429FD2C1-E1B6-4A6B-87CC-8841966C0DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429FD2C1-E1B6-4A6B-87CC-8841966C0DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429FD2C1-E1B6-4A6B-87CC-8841966C0DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79091B2C-7F15-40FB-9170-D5BAB320F726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79091B2C-7F15-40FB-9170-D5BAB320F726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79091B2C-7F15-40FB-9170-D5BAB320F726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79091B2C-7F15-40FB-9170-D5BAB320F726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAABBB29-3958-478C-855A-767FCC4A9080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAABBB29-3958-478C-855A-767FCC4A9080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAABBB29-3958-478C-855A-767FCC4A9080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAABBB29-3958-478C-855A-767FCC4A9080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6863B0F-03AC-4213-85D3-CC628B5D7ED2}
+	EndGlobalSection
+EndGlobal
